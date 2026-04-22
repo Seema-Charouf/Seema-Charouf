@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Seema🧑‍💻, a computer science student at <a href="https://www.hhu.de/en/">Heinrich Heine University in Düsseldorf</a>
+
+⚡ Currently working on: a web development project and preparing for the AZ-104 certification
+🧠 Interests: Web Development, Data Science and Cloud Computing
+🚀 Goal: becoming a better version of myself as a computer scientist every day
 <!--
 **Seema-Charouf/Seema-Charouf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
